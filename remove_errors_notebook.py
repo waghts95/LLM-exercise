@@ -1,6 +1,6 @@
 import nbformat
 
-path = "QdrantClient.ipynb"
+path = "gemini_rag_file_search.ipynb"
 nb = nbformat.read(path, as_version=4)
 
 if "widgets" in nb["metadata"]:
