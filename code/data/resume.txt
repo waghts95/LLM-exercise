@@ -1,0 +1,93 @@
+Contact
+India
+9890132816 (Mobile)
+waghts95@gmail.com
+www.linkedin.com/in/tushar-
+wagh-1781b7112 (LinkedIn)
+github.com/waghts95 (Other)
+Top Skills
+Retrieval-Augmented Generation
+(RAG)
+Tushar Wagh
+Data Scientist | Data Engineer
+Pune, Maharashtra, India
+Summary
+Technical skills :
+Data Science : Machine Learning and Deep Learning algorithms for
+Computer Vision and LLM.
+Data Engineering: Data Pipelines and Data Profiling
+Python
+Data Science
+Tools and Technologies:
+1. Python : Have hands on Deep learning, Machine Learning
+packages, Image processing packages, Data Processing packages,
+Numerical calculation packages, Data Visualization packages, Data
+Quality packages.
+2. AWS : AWS Data pipeline, EMR, Sagemaker, SNS, Redshift
+3. Azure : Databricks, Azure Data Factory
+4. GCP : Have hands on Vertex ai, Google cloud functions, Cloud
+Run, App Engine, Cloud Storage, Pub/Sub, BigQuery, Artificial
+Intelligence, AutoML for Vision.
+5. Big Data : PySpark
+6. Web Frameworks : flask, streamlit, fastapi.
+7. Database : MySQL, MongoDB, ElasticSearch, PostgreSQL
+8. Orchestration : Airflow, rundeck
+9. containerization : Docker, kubernetes
+9. Monitoring : DataDog
+10. GEN AI: LLM, Transformer, llama, FAISS, Pinecone, Weaviate,
+LangChain, AutoGPT, OpenAI, RAG-based systems
+11. Other : Blockchain
+Experience
+Fairtility
+Data and MLOps Engineer
+May 2025 - Present (6 months)
+Pune, Maharashtra, India
+As a Data and MLOps Engineer at Fairtility, I design and maintain scalable
+data pipelines and infrastructure to support AI-driven fertility solutions. I work at
+Page 1 of 3the intersection of data engineering and machine learning operations, ensuring
+seamless deployment, monitoring, and automation of ML models in production.
+My responsibilities include data preprocessing, model versioning, CI/CD for ML
+workflows, and enabling reproducibility, reliability, and scalability of AI systems
+used in IVF clinics.
+Optum
+Data Engineer
+October 2023 - April 2025 (1 year 7 months)
+Pune, Maharashtra, India
+• Designed and implemented data pipelines for processing large-scale
+healthcare datasets, ensuring data integrity and compliance.
+• Leveraged AI and machine learning models to derive actionable insights,
+improving patient outcomes.
+• Utilized big data technologies like Hadoop and Spark for real-time and batch
+processing.
+Innova Solutions
+Data Scientist
+March 2022 - September 2023 (1 year 7 months)
+Pune, Maharashtra, India
+I designed and developed AI-driven models to extract actionable insights from
+complex healthcare datasets, improving patient outcomes and operational
+efficiency. By applying machine learning and deep learning techniques, I
+predicted disease trends, optimized treatment plans, and enhanced clinical
+decision-making. Collaborating with cross-functional teams, including clinicians
+and business stakeholders, I translated data-driven insights into practical
+healthcare solutions.
+BioEnable Technologies Pvt Ltd
+Data Scientist
+August 2019 - March 2022 (2 years 8 months)
+Pune, Maharashtra, India
+• Designed and trained machine learning models for object detection, object
+segmentation and facial recognition.
+• Utilized tools like OpenCV, TensorFlow, and PyTorch to optimize algorithms
+for performance.
+zCon Solutions
+Data Engineer | Data Scientist
+October 2018 - July 2019 (10 months)
+Page 2 of 3Pune Area, India
+Emergys
+Data Engineer | Data Scientist
+August 2017 - July 2018 (1 year)
+Pune,India
+Education
+Pune Vidhyarthi Griha's College of Engineering and Technology
+Pune
+Bachelor of Engineering (B.E.), Computer Engineering · (2013 - 2017)
+Page 3 of 3
