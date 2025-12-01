@@ -1,8 +1,8 @@
 ############################ GGUF Model ###############################
 # GGUF is a compact format for storing AI models
 # Think of GGUF as a ZIP file for AI models - it compresses huge models to run on your laptop
-# This is GGUF model : llama3.1:8b-instruct-q4_K_M
-# This is q4_K_M = 4-bit K-quant Medium (GGUF quantization type)
+# This GGUF model : llama3.1:8b-instruct-q4_K_M
+# This q4_K_M = 4-bit K-quant Medium (GGUF quantization type)
 #####################################################################
 
 ## ollama is running through docker in background
