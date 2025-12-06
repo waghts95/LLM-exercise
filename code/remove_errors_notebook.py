@@ -1,6 +1,6 @@
 import nbformat
 
-path = "gemini_rag_file_search.ipynb"
+path = "DataDesigner_Counsellor_patient.ipynb"
 nb = nbformat.read(path, as_version=4)
 
 if "widgets" in nb["metadata"]:
